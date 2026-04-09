@@ -37,7 +37,7 @@ Current output target: **300 minutes of video per day**, fully automated.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/InFrontWebs/InFrontWebs/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/InFrontWebs/InFrontWebs/main/dist/github-contribution-grid-snake-dark.svg)
 
 </div>
 
